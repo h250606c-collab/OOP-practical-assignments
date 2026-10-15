@@ -1,0 +1,9 @@
+Account: S001
+Savings withdrawal rejected: minimum balance is $50.0
+Savings interest added: $5.0
+Final balance: $105.00
+
+Account: C001
+Current withdrawal successful: $250.0
+Maintenance fee deducted: $10.0
+Final balance: $-160.00
